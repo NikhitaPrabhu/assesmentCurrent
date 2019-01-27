@@ -5,7 +5,7 @@ class AccountComponent extends React.Component {
     render() { 
         return ( 
             <div>
-                This is account page!@!
+                <h1>This is account page!@!</h1>
             </div>
          );
     }

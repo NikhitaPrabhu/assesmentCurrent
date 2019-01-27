@@ -5,7 +5,7 @@ class UploadMedia extends React.Component {
     render() { 
         return ( 
             <div>
-                This is upload media page!!
+              <h1>This is upload media page!!</h1>  
             </div>
          );
     }

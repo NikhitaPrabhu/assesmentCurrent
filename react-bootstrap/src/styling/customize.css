@@ -127,6 +127,10 @@
     transform: translate(-50%, -50%);
   }
   .bg-orange {
-    background-color:orangered;
+    background-color:orange
+  }
+
+  .card-details-title {
+    margin-right: 2rem;
   }
   

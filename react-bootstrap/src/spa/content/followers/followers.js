@@ -5,7 +5,7 @@ class Followers extends React.Component {
     render() { 
         return ( 
             <div>
-                This is followers page!!!!!
+               <h1> This is followers page!!!!!</h1>
             </div>
          );
     }

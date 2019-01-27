@@ -21,24 +21,6 @@ class NavbarComponent extends React.Component {
               </ul>
             </div>
           </nav>     
-        // <header>
-        // <nav class="container">
-        //         <div class="logo">
-        //         </div>
-        //         <div class="two">
-        //         <Link className="navLinks" to="/upload">Upload Media</Link>
-        //         </div>
-        //         <div class="three">
-        //         <Link className="navLinks" to="/">My Media</Link>
-        //         </div>
-        //         <div class="four">
-        //         <Link className="navLinks" to="/followers">Follwers/Following</Link>
-        //         </div>
-        //         <div class="five">
-        //         <Link className="navLinks" to="/account">Account</Link>
-        //         </div>
-        // </nav>       
-        // </header>   
          );
     }
 }
